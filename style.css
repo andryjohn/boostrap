@@ -1,0 +1,98 @@
+body{
+	margin: 0px;
+	color: rgb(20,20,20);
+	background: #fcf5e8;
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+color: #6584e6;
+font-family: 'lobster', cursive;
+
+
+}
+p{
+	font-size: 16px;
+	line-height: 20px;
+
+}
+
+
+#header{
+	text-align: center;
+	padding: 150px;	/*marge intérieur*/
+	padding-bottom: 150px;
+	color: white;
+	background: url("https://lorempixel.com/1300/600/nightlife");				
+}
+.fonctionnalité{
+	padding: 40px;
+	font-weight: 300;
+}
+.fonctionnalité img{
+	border: 2px solid black;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: white;
+
+	
+}
+#footer{
+	padding: 30px;
+	background-color: rgb(30, 30, 30);
+	color: lightgrey;
+	text-align: center;
+}
+/*Pour les images de reseau sociaux via des liens avec fontawesome*/
+
+.social{
+
+	text-align: left;
+	font-size: 20px;
+	text-decoration: none;
+}
+#footer a{
+	color: lightgrey;
+
+}
+#footer a:hover{         /*ici c'est pour monter un é0tat quand la sourie survole l'icon*/ 
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
